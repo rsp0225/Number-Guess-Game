@@ -60,7 +60,7 @@ function playGame() {
     resultText.textContent =
       "Result: You lost... Correct answer was " +
       randomNumber +
-      "... Drink a shot!!!";
+      "... Take a shot!!!";
   }
 
   if (gameOver == true) {
