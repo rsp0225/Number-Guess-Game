@@ -24,7 +24,7 @@ The game provides hints and reactive UI that adjusts its display for the user ba
 
 The "Go" button is deactivated when the game is over. The "Reset" button can be pressed at any time to reset the game.
 
-A wmessage appears when a user enters a number outside the range of 1 to 100 or when the user enters a value that has already been entered. 
+A message appears when a user enters a number outside the range of 1 to 100 or when the user enters a value that has already been entered. 
 
 ## Installation
 
